@@ -9,8 +9,27 @@ footer, header {
   text-align: center;
 }
 
+header img {
+  width: 10em;
+}
+
+h1 {
+  font-size: 10em;
+}
+
+footer {
+  font-weight: bold;
+  font-style: italic;
+}
+
+main p {
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
 h2 {
   font-size: 400%;
   transform: matrix(2, .1, 0, 1, 0, 0);
   color: cornflowerblue;
+  border: 0.1em solid rgb(207, 174, 111);
 }
