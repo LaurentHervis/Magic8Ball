@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main,
+footer, header {
+  text-align: center;
+}
+
+h2 {
+  font-size: 400%;
+  transform: matrix(2, .1, 0, 1, 0, 0);
+  color: cornflowerblue;
+}
